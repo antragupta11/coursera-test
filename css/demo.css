@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="css/demo.css">
+</head>
+<body>
+
 *
 {
 	box-sizing:border-box;
@@ -71,3 +78,5 @@ h1{
 		left: 61.5%;
 	}
 }
+</body>
+</html>
